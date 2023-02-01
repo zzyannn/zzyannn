@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Charles 😊
+### Hi there 👋 
 
 <!--
 **zzyannn/zzyannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning front-end
+I'm Charles, I'm trying to learn the front end ~ 😊
 
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzyannn&show_icons=true&theme=radical)
+<br />
+
+🚧 **My Todoist Stats: ⬇️**
+
+- components library for react. 
+- template pulling cli.
+
+<br />
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zzyannn&show_icons=true&count_private=true" alt="Charles's Stats" >
+</p>
+
+<!--
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzyannn&show_icons=true&count_private=true)
+-->
+
+
