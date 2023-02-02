@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Charles, I'm trying to learn the front end ~ 😊
+<a href="https://github.com/zzyannn"><img align='right' src="https://github-readme-stats.vercel.app/api?username=zzyannn&show_icons=true&count_private=true" alt="Charles's Stats"></a>
+
+I'm Charles, I'm trying to learn the FrontEnd ~ 😊
 
 <br />
 
@@ -26,10 +28,6 @@ I'm Charles, I'm trying to learn the front end ~ 😊
 
 <br />
 <br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzyannn&show_icons=true&count_private=true" alt="Charles's Stats" >
-</p>
 
 <!--
 ![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzyannn&show_icons=true&count_private=true)
