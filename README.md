@@ -24,8 +24,6 @@ I'm Charles, I'm trying to learn the FrontEnd ~ 😊
 🚧 **My Todoist Stats: ⬇️**
 
 - components library for react. 
-- cli of template pulling .
-- cli of components library.
 
 <br />
 <br />
